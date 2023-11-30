@@ -1,0 +1,51 @@
+    body {
+        text-align: center;
+        margin: 50px;
+        font-family: sans-serif;
+    }
+
+    input {
+        height: 50px;
+        font-size: 18px;
+    }
+
+    button {
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+        border-radius: 6px;
+    }
+
+    table {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box {
+        border: 2px solid #544f4f;
+        border-radius: 8px;
+        background-color: #000000;
+        margin: auto;
+        width: 255px;
+        padding: 20px 0px 5px;
+    }
+
+    .Button{
+        width: 106px;
+    }
+
+    .orange {
+        background-color: orange;
+        color: white;
+    }
+
+    .gray {
+        background-color: #afa8a8;
+        color: white;
+    }
+
+    .btn {
+        background-color: #383535;
+        color: white;
+    }
