@@ -5,8 +5,12 @@
     }
 
     input {
-        height: 50px;
+        height: 62px;
         font-size: 18px;
+        border-radius: 6px;
+        margin: 15px 0px;
+        border: none;
+        outline: none;
     }
 
     button {
@@ -14,6 +18,8 @@
         height: 50px;
         font-size: 18px;
         border-radius: 6px;
+        border: none;
+        outline: none;
     }
 
     table {
