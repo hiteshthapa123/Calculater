@@ -1,3 +1,8 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
     body {
         text-align: center;
         margin: 50px;
@@ -32,7 +37,7 @@
         border: 2px solid #544f4f;
         border-radius: 8px;
         background-color: #000000;
-        margin: auto;
+        margin: 30px auto;
         width: 255px;
         padding: 20px 0px 5px;
     }
